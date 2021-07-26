@@ -1,0 +1,15 @@
+.custom-bg {
+    color: red;
+    background-color: grey;
+}
+.rgbplay{
+    color: rgb(100, 0, 155)
+}
+
+.transparency{
+    opacity: .3;
+}
+
+.navigation{
+    background-color: blue;
+}
